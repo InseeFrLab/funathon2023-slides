@@ -23,6 +23,8 @@ format:
 controls: true
 css: custom.css
 from: markdown+emoji
+footer: |
+  Insee, Funathon 2023 ([retour au site principal](https://inseefrlab.github.io/funathon2023/) ; [<i class="fa-brands fa-github"></i>](https://github.com/InseeFrLab/funathon2023))
 ---
 
 # Le SSP Cloud, c'est quoi ?
