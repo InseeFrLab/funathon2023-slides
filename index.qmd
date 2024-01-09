@@ -4,8 +4,6 @@ subtitle: |
   **[Et comment utiliser Git dessus]{.orange}**
 author: Lino Galiana
 slide-number: true
-footer: |
-  Funathon 2023
 # uncomment for French presentations:
 lang: fr-FR
 # for blind readers:
